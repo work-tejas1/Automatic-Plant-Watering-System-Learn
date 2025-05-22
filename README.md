@@ -57,7 +57,7 @@ The system itself work properly but it always can be improved by having a proper
 3. Connect the arduino to your PC
 4. Make sure it has successfully connected by checking COM port (Windows) or /dev/ttyUSB0 (Ubuntu)
 5. Upload the code to the Arduino
-6. 
+
 ## Project Images for reference
 
 ### Soil Moist
