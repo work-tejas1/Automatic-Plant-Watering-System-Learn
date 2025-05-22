@@ -57,6 +57,18 @@ The system itself work properly but it always can be improved by having a proper
 3. Connect the arduino to your PC
 4. Make sure it has successfully connected by checking COM port (Windows) or /dev/ttyUSB0 (Ubuntu)
 5. Upload the code to the Arduino
+6. 
+## Project Images for reference
+
+### Soil Moist
+<img src="https://github.com/work-tejas1/Automatic-Plant-Watering-System-Learn/blob/0df10c00eaea37a9ce7bf058687cb5a90d1c13f5/project-images-imp/img1.jpg" alt="Soil-moist" width="200"/>
+
+### Soil Dry
+<img src="https://github.com/work-tejas1/Automatic-Plant-Watering-System-Learn/blob/0df10c00eaea37a9ce7bf058687cb5a90d1c13f5/project-images-imp/img2-dry.jpg" alt="Soil-dry" width="200"/>
+
+### Relay
+<img src="https://github.com/work-tejas1/Automatic-Plant-Watering-System-Learn/blob/0df10c00eaea37a9ce7bf058687cb5a90d1c13f5/project-images-imp/img3-relay.jpg" alt="relay" width="200"/>
+
 
 ## Contributors
 - Tejas
